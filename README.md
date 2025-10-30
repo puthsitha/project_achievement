@@ -27,6 +27,13 @@ This repository contains several categorized projects. Each folder includes a `p
       <br/>
       <a href="./phsar_tech/project.md">Phsar Tech Project</a>
     </td>
+    <td align="center" style="padding: 10px;">
+      <a href="./hattha_bank/project.md">
+        <img src="./assets/hattha_bank.png" alt="phsar_tech" width="80" height="80">
+      </a>
+      <br/>
+      <a href="./hattha_bank/project.md">Hattha Bank Project</a>
+    </td>
   </tr>
 </table>
 
