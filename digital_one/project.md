@@ -14,7 +14,7 @@ These are the apps that have successfully published on the App Store.
   <tr>
     <td>
       <a href="https://apps.apple.com/kh/app/instafoodkh/id1246793337">
-        <img src="../assets/instafood_kh.png" width="120" alt="Instafood KH" style="border-radius: 8px;" >
+        <img src="../assets/digitalone/instafood_kh.png" width="120" alt="Instafood KH" style="border-radius: 8px;" >
       </a>  
     </td>
     <td style="padding-left: 16px;">
@@ -25,7 +25,7 @@ These are the apps that have successfully published on the App Store.
   <tr>
     <td>
       <a href="https://apps.apple.com/us/app/instafoodkh-vendor/id1568015546">
-        <img src="../assets/instafood_vendor.png" width="120" alt="Instafood Vendor" style="border-radius: 8px;" />
+        <img src="../assets/digitalone/instafood_vendor.png" width="120" alt="Instafood Vendor" style="border-radius: 8px;" />
       </a>
     </td>
     <td style="padding-left: 16px;">
@@ -36,7 +36,7 @@ These are the apps that have successfully published on the App Store.
   <tr>
     <td>
       <a href="https://apps.apple.com/us/app/instafoodkh-driver/id1568014447">
-        <img src="../assets/instafood_driver.png" width="120" alt="Instafood Driver" style="border-radius: 8px;" />
+        <img src="../assets/digitalone/instafood_driver.png" width="120" alt="Instafood Driver" style="border-radius: 8px;" />
       </a>
     </td>
     <td style="padding-left: 16px;">
@@ -56,7 +56,7 @@ Here are apps I’ve contributed to through development, feature updates, and ma
   <tr>
     <td>
       <a href="https://apps.apple.com/kh/app/fruit-daily/id6473465952">
-        <img src="../assets/fruit_daily.png" width="120" alt="Instafood KH" style="border-radius: 8px;" >
+        <img src="../assets/digitalone/fruit_daily.png" width="120" alt="Instafood KH" style="border-radius: 8px;" >
       </a>  
     </td>
     <td style="padding-left: 16px;">
@@ -67,7 +67,7 @@ Here are apps I’ve contributed to through development, feature updates, and ma
   <tr>
     <td>
       <a href="https://apps.apple.com/kh/app/bloc-delivery/id1459499838">
-        <img src="../assets/bloc_delivery.png" width="120" alt="Instafood Vendor" style="border-radius: 8px;" />
+        <img src="../assets/digitalone/bloc_delivery.png" width="120" alt="Instafood Vendor" style="border-radius: 8px;" />
       </a>
     </td>
     <td style="padding-left: 16px;">
