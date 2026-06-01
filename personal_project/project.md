@@ -27,6 +27,17 @@ These are apps I’ve worked on that are available as open source:
       <a href="https://github.com/puthsitha/moone">View on GitHub</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/puthsitha/moone">
+        <img src="../assets/personal/artist_planner.png" width="120" alt="Instafood KH" style="border-radius: 8px;" >
+      </a>  
+    </td>
+    <td style="padding-left: 16px;">
+      <p><strong>🎨 Artistplanner 🗓️</strong> 2nd 2026 personal project inspire ✨ by from artist planner book 📕. This app is kindda self-improvment with the modern and fluture <strong>Glass UI</strong>.</p>
+      <a href="https://github.com/puthsitha/artist-planner">View on GitHub</a>
+    </td>
+  </tr>
 
 </table>
 
