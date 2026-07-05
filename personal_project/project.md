@@ -2,7 +2,6 @@
 
 These are apps I’ve worked on that are available as open source:
 
-- **🕒 EMT (Employee Time Management)**
 
   <table>
   <tr>
